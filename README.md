@@ -1,7 +1,7 @@
 # 1536
 A derivative of Gabriele Cirulli's wildly popular game 2048, which spawns '3' tiles with the end goal of 1536. You can continue if you want :)
 
-### Screenshot
+### Screenshots
 
 <p align="center">
   <img src="images/game.png" alt="Gameplay screenshot"/>
