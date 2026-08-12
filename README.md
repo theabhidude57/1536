@@ -1,30 +1,12 @@
-# 2048
-A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone). 2048 was indirectly inspired by [Threes](https://asherv.com/threes/).
-
-Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
-
-The official app can also be found on the [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) and [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
-
-### Contributions
-
-[Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) are maintainers for this repository.
-
-Other notable contributors:
-
- - [TimPetricola](https://github.com/TimPetricola) added best score storage
- - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
- - [marcingajda](https://github.com/marcingajda) made swipes work on Windows Phone
- - [mgarciaisaia](https://github.com/mgarciaisaia) added support for Android 2.3
-
-Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
+# 1536
+A derivative of Gabriele Cirulli's wildly popular game 2048, which spawns '3' tiles with the end goal of 1536. You can continue if you want :)
 
 ### Screenshot
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png" alt="Screenshot"/>
+  <img src="images/game.png" alt="Gameplay screenshot"/>
+  <img src="images/win.png" alt="Win screen"/>
 </p>
-
-That screenshot is fake, by the way. I never reached 2048 :smile:
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
@@ -32,7 +14,8 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 You can find the same information in the [contributing guide.](https://github.com/gabrielecirulli/2048/blob/master/CONTRIBUTING.md)
 
 ## License
-2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+1536 is a derivative of Gabriele Cirulli's 2048, which uses the MIT license[cite: 2].
+This project is dual-licensed to respect the original work and its copyright while also ensuring that derivatives of this project remain open-source.
 
-## Donations
-I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. Thank you very much!
+1. **The MIT License** (original 2048 project terms) — see the [LICENSE-MIT.txt](LICENSE-MIT.txt) file[cite: 2].
+2. **The GNU General Public License v3.0 (GPLv3)** (ensuring derivative works remain open-source) — see the [LICENSE-GPLv3.txt](LICENSE-GPLv3.txt) file[cite: 1].
